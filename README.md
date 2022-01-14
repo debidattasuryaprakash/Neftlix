@@ -10,5 +10,4 @@ https://user-images.githubusercontent.com/74270500/149586830-efe26962-d9bf-456d-
 ![Screenshot from 2022-01-15 02-53-03](https://user-images.githubusercontent.com/74270500/149587128-25f558a2-58c3-4fca-980f-bc3a1cc248a5.png)
 ![Screenshot from 2022-01-15 02-53-16](https://user-images.githubusercontent.com/74270500/149587142-6e601c1b-1014-4518-94cc-d4cc639b7823.png)
 ![Screenshot from 2022-01-15 02-53-19](https://user-images.githubusercontent.com/74270500/149587148-c7f98f6b-44ec-4057-8afc-a6f010ec72f7.png)
-![Screenshot from 2022-01-15 02-53-29](https://user-images.githubusercontent.com/74270500/149587151-8f8f28ed-93ff-4a67-bec0-bba704346eb5.png)
 ![Screenshot from 2022-01-15 02-53-33](https://user-images.githubusercontent.com/74270500/149587154-091a22aa-b408-41f6-9dcc-217625d92a04.png)
