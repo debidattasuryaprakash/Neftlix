@@ -1,6 +1,8 @@
 # neftlix
 
-https://user-images.githubusercontent.com/74270500/149586830-efe26962-d9bf-456d-8a61-14c10446d39e.mp4
+
+https://user-images.githubusercontent.com/74270500/149618221-d4507e55-1499-437a-8ac9-edcb634c6e5e.mp4
+
 
 # Screenshots
 ![Screenshot from 2022-01-15 02-52-15](https://user-images.githubusercontent.com/74270500/149587093-1628fefb-6532-48d2-a81e-290849eff4c3.png)
